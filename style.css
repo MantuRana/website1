@@ -97,6 +97,17 @@ transition: all 3s;
 
 .img:hover {
              transform: translate(0px,10px);    
-
-
 }
+
+.img1 {               
+  position:absolute;
+  top:17%;
+  left:10%;  
+ transform: translate(-50%,-50%); 
+ border:3px solid rgb(232, 221, 221) ;       
+ height: 180px;
+width:200px;
+box-shadow: 10px -20px 20px rgb(233, 233, 137);
+border-radius: 150px;
+background-image: url(me3.jpg);
+ background-repeat: no-repeat;                }
