@@ -111,3 +111,84 @@ box-shadow: 10px -20px 20px rgb(233, 233, 137);
 border-radius: 150px;
 background-image: url(me3.jpg);
  background-repeat: no-repeat;                }
+
+ .img1:hover {
+                 transform: scaley(2.5); }
+
+ #form {
+             width:200px;
+             height:330px;
+             background-image:linear-gradient(orange,rgb(142, 142, 28),rgb(116, 45, 45));
+             position:absolute;
+             top:80px;
+             left:930px;
+             border:3px solid rgb(226, 219, 219) transparent;
+             border-left: 1px solid rgb(234, 175, 135)transparent;
+             border-radius: 25px;
+             padding: 25px;  
+             box-shadow: 20px -10px 23px rgb(240, 240, 127);    
+              resize: both;
+  }
+   h2 { color: rgb(241, 241, 33);
+              text-align: center;
+               border:2px solid white;
+               background-color:black ;
+               height:30px;
+               width:200px;
+               border-radius: 20px ;
+               padding: 4px;
+               margin: 8px;
+
+  }
+  h2:hover {
+                color:rgb(12, 16, 12);
+                background-image:radial-gradient(red,rgb(21, 163, 192),blue);
+
+  }
+
+  input{color: #d41f1f;
+          height:30px;
+           width:160px;
+            text-align: center;
+               margin-top:25px;
+              border-radius:10px;
+              background:transparent;
+              border:2px solid red transparent;
+              border-top: none;
+              border-bottom:3px solid white;
+              border-left: none;
+              border-right: none;
+              
+
+  }
+
+  input:hover {
+                   
+                      background-color:cyan;
+                      color: #000000;
+  }
+
+
+  button {color: #000000;
+          height:30px;
+           width:150px;
+            text-align: center;
+               margin-top:25px;
+              border-radius:10px;
+              background-color: rgb(27, 17, 17);
+              text-decoration:none ;
+  }
+  
+  button a{color: #0fde3f;
+    height:30px;
+     width:160px;
+      text-align: center;
+      font-size: large;
+         margin-top:15px;
+        border-radius:10px;
+        text-decoration:none ;
+    
+}
+
+
+
