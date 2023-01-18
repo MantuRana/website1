@@ -62,7 +62,7 @@ body{
 
 .about a {
     position:absolute;
-    top:60%;
+    top:63%;
     left:50%;  
    transform: translate(-50%,-50%); 
            color:orange;
@@ -101,7 +101,7 @@ transition: all 3s;
 
 .img1 {               
   position:absolute;
-  top:17%;
+  top:15%;
   left:10%;  
  transform: translate(-50%,-50%); 
  border:3px solid rgb(232, 221, 221) ;       
