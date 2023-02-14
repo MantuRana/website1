@@ -7,8 +7,8 @@ padding:0;
 body{ 
          background-image: url(img.jpg);
          background-repeat: no-repeat;
-         height:80%;
-        width:100%;
+         height:60%;
+        width:90%;
          background-size: cover;
          background-position:CENTER;
   }
