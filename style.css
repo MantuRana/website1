@@ -113,7 +113,7 @@ background-image: url(me3.jpg);
  background-repeat: no-repeat;                }
 
  .img1:hover {
-                 transform: scaley(2.5); }
+                 transform: scale(1.5); }
 
  #form {
              width:200px;
@@ -122,6 +122,7 @@ background-image: url(me3.jpg);
              position:absolute;
              top:80px;
              left:75%;
+             right:25%;
              border:3px solid rgb(226, 219, 219) transparent;
              border-left: 1px solid rgb(234, 175, 135)transparent;
              border-radius: 25px;
